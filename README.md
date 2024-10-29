@@ -64,29 +64,37 @@ To compliment this dataset we merged the IMDB dataset to
 
 After data cleaning our dataset had the following columns that would be analysed so to provide a better understanding of the movie industry which were
 
-Columns                     Description
- 1. title                    - name of the movie                 
- 2. genre                    - the genre the movie was placed in
-                            - a movie could have multiple genres                     
- 3. director                 - person who directed the movie
-                            - a movie could have multiple directors     
- 4. studio                   - the studio that produced the movie        
- 5. release_year             - the year the movie released             
- 6. release_month            - the month the movie released          
- 7. film_runtime             - the runtime of the movie          
- 8. imdb_averge_rating       - IMDB rating of the movie
- 9. imdb_number_of_votes     - Number of people who rated a movie on the IMDB website    
- 10. production_budget        - Cost of making the movie
- 11. domestic_gross           - revenue generated from the domestic market
-                            - the dataset was generated from USA companies therefore Domestic means USA market
- 12. foreign_gross            - contains revenue generated from the rest of the world excluding USA          
- 13. worldwide_gross          - Cumulative revenue of the domestic gross and revenue gross
- 14. original_language        - Language the movie was initialy released in
- 15. popularity               - Popularity of the movie
- 16. moviedb_average_rating   - Rating from the moviedb website
- 17. moviedb_number_of_votes  - Number of people who voted from the moviedb website
- 18. ROI                      -This stands for Return On Investment
+ 1. title                                  
+ 2. genre                                       
+ 3. director                   
+ 4. studio                   
+ 5. release_year                     
+ 6. release_month                    
+ 7. film_runtime                    
+ 8. imdb_averge_rating       
+ 9. imdb_number_of_votes     
+ 10. production_budget    
+ 11. domestic_gross          
+ 12. foreign_gross                   
+ 13. worldwide_gross          
+ 14. original_language        
+ 15. popularity               
+ 16. moviedb_average_rating  
+ 17. moviedb_number_of_votes  
+ 18. ROI 
 
+ ### Note
+ A movie could belong to more than one genre
+
+ A movie could have more than one director directing it
+
+ Domestic gross means revenue generated from USA audience this is because the dataset was collected from USA companies
+
+ Foreign gross means revenue generated from the rest of the world excluding USA
+
+ Worldwide gross means the cumulative revenue generated
+
+ ROI means the Return Of Investment 
 
  # DATA VISUALISATION
 
