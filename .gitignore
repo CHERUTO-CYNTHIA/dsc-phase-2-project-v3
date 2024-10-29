@@ -19,3 +19,7 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 echo "zippedData/im.db" >> .gitignore
+zippedData/im.db
+zippedData/im.db--out
+zippedData/im.db
+zippedData/im.db--out
