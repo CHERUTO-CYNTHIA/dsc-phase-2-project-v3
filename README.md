@@ -1,3 +1,14 @@
+# Table of Contents
+1. [Business Overview](#business-overview)
+2. [Business Understanding](#business-understanding)
+3. [Data Understanding and Analysis](#data-understanding-and-analysis)
+4. [Visualisations](#data-visualisation)
+5. [Conclusion](#Conclusion)
+
+
+
+
+
 # BUSINESS OVERVIEW
 
 The movie industry is a dynamic and highly competitive field, with numerous production companies striving to capture the attention of global audiences. As the entertainment sector continues to expand, understanding the elements and factors that influence a movie's performance has become essential for newcomers to the market. This respository aims to provide valuable insights into the current film industry trends, helping to guide the strategic decisions of a new movie studio. By examining recent box office data,movie ratings and film costs we will identify key patterns and trends in audience preferences, enabling the studio to make informed choices regarding genres, directors, and formats that are most likely to succeed. Our goal is to optimize the studio's performance by offering practical recommendations based on data-driven analysis.
@@ -22,7 +33,7 @@ Our objective is to establish a movie studio that produces a wide range of films
 - Audience
     These are the people who will consume the content that will be produced by the movie studio
 
-## Business Question
+## BUSINESS QUESTION
 
 To understand the movie business and provide analysis on audiences preferences
 
@@ -76,7 +87,11 @@ Columns                     Description
  17. moviedb_number_of_votes  - Number of people who voted from the moviedb website
  18. ROI                      -This stands for Return On Investment
 
- ## DATA VISUALISATION
+
+ # DATA VISUALISATION
+
+
+ # Conclusion
 
 
 
