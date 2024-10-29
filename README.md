@@ -10,13 +10,16 @@ Our objective is to establish a movie studio that produces a wide range of films
 
 ## STAKEHOLDERS
 
-a)Company board of directors
+- Company board of directors
     These are the people who would make the strategic decisions and allocate the resources for this new venture
-b)The company creative team
+
+- The company creative team
     These are directors who would be tasked in creating content for the new studio
-c) Marketing and sales team
+
+- Marketing and sales team
     These are the people who will be promoting the movies and ensure that it reaches the targeted audience
-d) Audience
+
+- Audience
     These are the people who will consume the content that will be produced by the movie studio
 
 ## Business Question
@@ -27,51 +30,51 @@ To understand the movie business and provide analysis on audiences preferences
 # DATA UNDERSTANDING AND ANALYSIS
 
 To answer the business question we analysed data from company's websites that hold information such as:
-    a) production cost
-    b)domestic gross
-    c)foregn gross
-    d)audience rating
+- production cost
+- domestic gross
+- foregn gross
+- audience rating
 
 ## DATA SOURCES
 Our main dataset was sourced from the IMDB website.The IMDB website provided us with information on:
-    a)movie name
-    b)genre
-    c)year of release
-    d)Movie runtime
-    e)IMDB rating
-    f)Director of the movie
+- movie name
+- genre
+- year of release
+- Movie runtime
+- IMDB rating
+- Director of the movie
 
 To compliment this dataset we merged the IMDB dataset to
-    a) Box Office Mojo Website - This website provided financial information of various movies
-    b) Moviesdb Website - This website provided information on the popularity of various movies and the ratings held by company
-    c)The Numbers Website - This website provided financial information on various movies
+- Box Office Mojo Website - This website provided financial information of various movies
+- Moviesdb Website - This website provided information on the popularity of various movies and the ratings held by company
+- The Numbers Website - This website provided financial information on various movies
 
 ## DATA DESCRIPTION
 
 After data cleaning our dataset had the following columns that would be analysed so to provide a better understanding of the movie industry which were
 
 Columns                     Description
- a)title                    - name of the movie                 
- b)genre                    - the genre the movie was placed in
+ 1. title                    - name of the movie                 
+ 2. genre                    - the genre the movie was placed in
                             - a movie could have multiple genres                     
- c)director                 - person who directed the movie
+ 3. director                 - person who directed the movie
                             - a movie could have multiple directors     
- d)studio                   - the studio that produced the movie        
- e)release_year             - the year the movie released             
- f)release_month            - the month the movie released          
- g)film_runtime             - the runtime of the movie          
- h)imdb_averge_rating       - IMDB rating of the movie
- i)imdb_number_of_votes     - Number of people who rated a movie on the IMDB website    
- j)production_budget        - Cost of making the movie
- k)domestic_gross           - revenue generated from the domestic market
+ 4. studio                   - the studio that produced the movie        
+ 5. release_year             - the year the movie released             
+ 6. release_month            - the month the movie released          
+ 7. film_runtime             - the runtime of the movie          
+ 8. imdb_averge_rating       - IMDB rating of the movie
+ 9. imdb_number_of_votes     - Number of people who rated a movie on the IMDB website    
+ 10. production_budget        - Cost of making the movie
+ 11. domestic_gross           - revenue generated from the domestic market
                             - the dataset was generated from USA companies therefore Domestic means USA market
- l)foreign_gross            - contains revenue generated from the rest of the world excluding USA          
- m)worldwide_gross          - Cumulative revenue of the domestic gross and revenue gross
- n)original_language        - Language the movie was initialy released in
- o)popularity               - Popularity of the movie
- p)moviedb_average_rating   - Rating from the moviedb website
- q)moviedb_number_of_votes  - Number of people who voted from the moviedb website
- r)ROI                      -This stands for Return On Investment
+ 12. foreign_gross            - contains revenue generated from the rest of the world excluding USA          
+ 13. worldwide_gross          - Cumulative revenue of the domestic gross and revenue gross
+ 14. original_language        - Language the movie was initialy released in
+ 15. popularity               - Popularity of the movie
+ 16. moviedb_average_rating   - Rating from the moviedb website
+ 17. moviedb_number_of_votes  - Number of people who voted from the moviedb website
+ 18. ROI                      -This stands for Return On Investment
 
  ## DATA VISUALISATION
 
