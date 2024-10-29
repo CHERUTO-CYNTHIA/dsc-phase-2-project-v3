@@ -97,7 +97,9 @@ After data cleaning our dataset had the following columns that would be analysed
  ROI means the Return Of Investment 
 
  # DATA VISUALISATION
-
+ 
+ **Tableau Dashboard**
+ [View Dashboard](https://public.tableau.com/app/profile/edwin.maina/viz/Phase2Projectdashboard/Dashboard1?publish=yes)
 
  # Conclusion
 
