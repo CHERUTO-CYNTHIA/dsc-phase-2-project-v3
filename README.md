@@ -1,4 +1,4 @@
-![img](https://github.com/CHERUTO-CYNTHIA/dsc-phase-2-project-v3/blob/f0314c65873e122315727463ab8d9d20390aa86d/WhatsApp%20Image%202024-10-30%20at%2010.58.34.jpeg)
+![img](https://github.com/CHERUTO-CYNTHIA/dsc-phase-2-project-v3/blob/6496dd70d1c006571b916561f433cd467e5c82bf/WhatsApp%20Image%202024-10-30%20at%2011.06.23.jpeg)
 # Table of Contents
 1. [Business Overview](#business-overview)
 2. [Business Understanding](#business-understanding)
