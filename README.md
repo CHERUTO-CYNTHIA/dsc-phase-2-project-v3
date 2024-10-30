@@ -7,9 +7,6 @@
 6. [Recommendations](#recommendations)
 
 
-
-
-
 # BUSINESS OVERVIEW
 
 The movie industry is a dynamic and highly competitive field, with numerous production companies striving to capture the attention of global audiences. As the entertainment sector continues to expand, understanding the elements and factors that influence a movie's performance has become essential for newcomers to the market. This respository aims to provide valuable insights into the current film industry trends, helping to guide the strategic decisions of a new movie studio. By examining recent box office data,movie ratings and film costs we will identify key patterns and trends in audience preferences, enabling the studio to make informed choices regarding genres, directors, and formats that are most likely to succeed. Our goal is to optimize the studio's performance by offering practical recommendations based on data-driven analysis.
@@ -108,7 +105,7 @@ The above figure shows the top movies that have the highest revenue worldwide. M
 
 The above figure shows which genres most movies are based on. From the above visualisations we discover that majority of the movies are considered to belong to the drama genre while many studios don't produce movies based on the News genre
 
-## AVERAGE Return On Investment (ROI) by genre
+## Average Return On Investment (ROI) by genre
 ![Average ROI % by genre](Visualisations/ROI_by_genre.png)
 
 The above figure shows that the Horror and Mystery genres have the highest ROI for studios in the movie industry. This is due to the relatively low production costs incurred by studios to produce these movies compared to the high profits they generate.
