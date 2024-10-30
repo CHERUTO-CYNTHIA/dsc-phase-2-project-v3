@@ -97,6 +97,8 @@ After data cleaning our dataset had the following columns that would be analysed
  ROI means the Return Of Investment 
 
  # DATA VISUALISATION
+ ## Top ten movies by worlwide gross earnings
+![alt text](image.png)
  
  **Tableau Dashboard**
  [View Dashboard](https://public.tableau.com/app/profile/edwin.maina/viz/Phase2Projectdashboard/Dashboard1?publish=yes)
