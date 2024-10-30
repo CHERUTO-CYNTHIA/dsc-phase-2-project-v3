@@ -4,6 +4,7 @@
 3. [Data Understanding and Analysis](#data-understanding-and-analysis)
 4. [Visualisations](#data-visualisation)
 5. [Conclusion](#Conclusion)
+6. [Recommendations](#recommendations)
 
 
 
@@ -100,7 +101,7 @@ After data cleaning our dataset had the following columns that would be analysed
  ## Top ten movies by worlwide gross earnings
 ![top 10 movies worldwide](<Visualisations/Top _10_movies_by_worldwide_gross.png>)
 
-The above figure shows the top movies that have the highest revenue worldwide. Majority of these movies and were big cultural moments on the year they came out for example Avenger Infinity War
+The above figure shows the top movies that have the highest revenue worldwide. Majority of these movies were big cultural moments on the year they came out for example Avenger Infinity War
 
 ## Number of movies per genre
 ![Number of movies per genre](<Visualisations/Number_of_movies_by_genre.png>)
